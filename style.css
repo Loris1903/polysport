@@ -1,0 +1,98 @@
+#page_acceuil{
+	text-align:center;
+	margin: 40px;
+	font-family: 'Exo 2';
+}
+#articles{
+	text-align: center;
+	margin: 40px;
+}
+#titre_site{
+	background-color: #F8192A;
+	padding :20px;
+	color: white;
+}
+.presentation_wemby{
+	display: flex;
+	justify-content: space-between;
+	border: 2px solid black;
+	margin-left: 300px;
+}
+.presentation_wemby #titre_wemby_acceuil{
+	padding: 1.7px auto;
+	text-align: center;
+	font-size: 25px;
+}
+.presentation_wemby #paragraphe_acceuil{
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: justify;
+	font-size: 15px;
+}
+.presentation_wemby #dunk_wemby{
+	width: 400px;
+	height: 240px;
+}
+#article_wemby{
+	background:#FCCC9C;
+	font-family:'Exo 2';
+	text-align: center;
+	font-size: 17px;
+	line-height: 20px;
+	letter-spacing: 0.3px;
+	width: 1200px;
+	margin: 0 auto;
+	padding:70px 20px 20px 20px;
+	box-shadow:200px 200px 500px #F48C54;
+	border:2px solid black;
+}
+#titre_wemby{
+	font-size: 60px;
+}
+#chapo_wemby{
+	background-color: #F48C54;
+	line-height: 27px;
+	letter-spacing: 0.5px;
+	text-align: justify;
+	padding: 20px;
+	box-shadow: 3px 3px 10px rgb(0, 0, 0, 1.0);
+}
+#Victor_Wembanyama {
+	width:480px;
+	heigh:360px;
+	padding:10px 0px 10px 0px;
+	border-radius: 30px;
+}
+#lien_Victor{
+	text-decoration: none;
+	color: black;
+}
+#lien_Victor:hover{
+	color: #7C7C7C;
+	text-decoration: underline;
+}
+
+.wemby_mavs{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+.wemby_mavs #wemby_gauche_article{
+	width: 480px;
+	height: 320px;
+}
+.wemby_mavs #wemby_texte_photo{
+	text-align: justify;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.lien{
+	text-decoration: none;
+	color: black;
+}
+
+.lien:hover{
+	color: #7C7C7C;
+	text-decoration: underline;
+}
