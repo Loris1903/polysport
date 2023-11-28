@@ -80,11 +80,24 @@
 .wemby_mavs #wemby_gauche_article{
 	width: 480px;
 	height: 320px;
+	margin-top: 10px;
 }
 .wemby_mavs #wemby_texte_photo{
 	text-align: justify;
 	padding-left: 10px;
 	padding-right: 10px;
+}
+
+#retour{
+	text-decoration: none;
+	color: black;
+	padding-left: 850px;
+	padding-top: 30px;
+}
+
+#retour:hover{
+	color: #7C7C7C;
+	text-decoration: underline;
 }
 
 .lien{
